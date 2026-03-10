@@ -1,5 +1,5 @@
 # C-practice
-This is C programming repo
+This is my C programming repo
 i have covered basics and core concepts of :-
   data types
   conditional statements
